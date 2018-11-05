@@ -1,6 +1,6 @@
 # micro_like_animation
 
-A new Flutter application.
+An experiment with Flutter animations to reproduce an animation made in Principle which I found on [Principle Templates](http://principletemplates.com/)
 
 ## Getting Started
 
